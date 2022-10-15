@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on gfg
 - 🤔 I’m looking for help with Gfg
 - 💬 Ask me about anything
-- 📫 How to reach me: 
+- 📫 How to reach me: aryaharde05@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a crazy person
 -->
