@@ -4,7 +4,7 @@
 **Arya-05/Arya-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on Machine Learning Projects
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on gfg
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: aryaharde05@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am a crazy person
--->
+
